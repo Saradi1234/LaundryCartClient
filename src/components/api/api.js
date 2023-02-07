@@ -1,9 +1,9 @@
 import axios from 'axios'
 
 // const url = 'http://localhost:5000'
-// const url = 'https://laundry-cart-backend-fg3c.onrender.com'
+// const url = 'https://laundrycartbackend-jdvv.onrender.com'
 
-const url = 'https://laundry-cart-backend-dlxp.onrender.com'
+const url = 'https://laundrycartbackend-jdvv.onrender.com'
 
 export const getOrders = async () => {
     try {

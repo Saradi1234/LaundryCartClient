@@ -36,7 +36,7 @@ body {
 }
 
 .ul :last-child {
+    height: 14px;
     background-color: #5861AE;
     color: #FFFFFF;
-    height: 14px;
 }
